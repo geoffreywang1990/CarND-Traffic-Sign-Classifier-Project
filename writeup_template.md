@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image2]: ./examples/grayscale.jpg "Grayscaling"
 [image3]: ./examples/random_noise.jpg "Random Noise"
 [image4]: ./examples/img1.jpg "Traffic Sign 1"
-[image5]: ./examples/ima2.png "Traffic Sign 2"
+[image5]: ./examples/img2.png "Traffic Sign 2"
 [image6]: ./examples/img3.png "Traffic Sign 3"
 [image7]: ./examples/img4.png "Traffic Sign 4"
 [image8]: ./examples/img5.png "Traffic Sign 5"
